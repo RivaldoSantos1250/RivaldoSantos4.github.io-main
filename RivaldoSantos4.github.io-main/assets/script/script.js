@@ -266,3 +266,6 @@ function loadItem(item) {
             contentDiv.innerHTML = "<RECENTES</h2><p>Selecione uma categoria para carregar o conteúdo.</p>";
    }
 }
+
+
+
